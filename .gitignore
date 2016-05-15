@@ -1,8 +1,0 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/Calculator/Calculator/bin
-/Calculator/Calculator/obj
-/Calculator/.vs/Calculator/v14
-/Calculator/Calculator/Calculator.csproj.user
